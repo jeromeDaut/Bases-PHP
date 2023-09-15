@@ -87,3 +87,7 @@ li a{
 h1{
     color: rgb(105, 151, 151);
 }
+/* personnages */
+.figure{
+    display: flex;
+}
