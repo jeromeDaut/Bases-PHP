@@ -8,5 +8,6 @@
         <li><a href="rechercheChiffre.php">Exercice chiffre</a></li>
         <li><a href="moyenne.php">Exercice moyenne</a></li>
         <li><a href="personnage.php">Exercice personnage</a></li>
+        <li><a href="tableau.php">Exercice tableau</a></li>
     </ul>
 </nav>
